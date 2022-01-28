@@ -1,0 +1,18 @@
+h1{
+  font-family: sans-serif;
+}
+h3{
+  font-family: sans-serif;
+}
+body{
+  background-color: #a4bade;
+}
+hr{
+  width: 2%;
+  border-style: dotted none none;
+  border-width: 5px;
+  border-color: lightgrey;
+}
+img{
+  height: 300px;
+}
